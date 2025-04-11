@@ -181,7 +181,7 @@ spring.h2.console.enabled=true
 spring.jpa.hibernate.ddl-auto=update
 To access the H2 Console:
 
-URL: http://localhost:8080/h2-console
+URL: run on your localhost port
 JDBC URL: jdbc:h2:mem:testdb
 Username: sa
 Password: (Leave blank)
